@@ -8,14 +8,14 @@ The purpose of this analysis was to use existing Citi Bike data from New York Ci
 ### Subscribers vs. Customers
 Using a simple graph to illustrate User type, we see that Citi Bike has 4x as many Users who are Subscribers than simply Customers.  Creating a solid Subscriber base will be important when starting out in Des Moines.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Users](https://github.com/cflavallee/bikesharing/blob/main/Users.PNG)
 
 ### Start vs. End of Trip
 By mapping starting and ending Station IDs, we see that most NYC trips start and end within Manhattan.  This could be due to the high number of tourists who use Citi Bike while in NYC.  However, we could also understand how bike-sharing would be an easier 
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Start](https://github.com/cflavallee/bikesharing/blob/main/StartStation.PNG)
+![Stop](https://github.com/cflavallee/bikesharing/blob/main/EndStation.PNG)
 
 ## Summary
 
