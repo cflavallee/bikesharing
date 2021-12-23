@@ -5,7 +5,7 @@ The purpose of this analysis was to use existing Citi Bike data from New York Ci
 
 The Tableau visualizations were put into a Tableau Story and the below analysis references this story. The link to the Story is below.
 
-[link to dashboard](https://public.tableau.com/app/profile/collin.lavallee/viz/CitibikeChallenge_16399487400070/NYCCitiBikeStory_1#1)
+[Link to Story](https://public.tableau.com/app/profile/collin.lavallee/viz/CitibikeChallenge_16399487400070/NYCCitiBikeStory_1#1)
 
 ## Results 
 
