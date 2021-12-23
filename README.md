@@ -27,8 +27,9 @@ The data for Trip Duration shows that most rides are of a very short duration.  
 ### Number of Trips - Day of the Week
 
 #### Trips by Time and Day of Week
+Using the heatmap below, we see that during the week the most popular Citi Bike times were morning and evening, while on the weekends, the most popular times were during the day.  
 
-![GenderUser](https://github.com/cflavallee/bikesharing/blob/main/Weekday.PNG)
+![GenderUser](https://github.com/cflavallee/bikesharing/blob/main/DayofWeek.PNG)
 
 #### Trips by Day of Week - Gender and User Type
 
